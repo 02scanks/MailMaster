@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 public class Database
 {
-    string connectionString = "server=localhost;port=3306;database=mail_master;user=root;password=EthanJ1852**";
+    string connectionString = "server=localhost;port=3306;database=mail_master;user=root;password=BLANK";
 
     public void PopulateUserComboBox(ComboBox users, int adminID)
     {
