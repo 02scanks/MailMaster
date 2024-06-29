@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{326F2C59-5C13-41FA-90BE-36E978A402C4}|MailMaster\\MailMaster.csproj|C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\mailmaster\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{326F2C59-5C13-41FA-90BE-36E978A402C4}|MailMaster\\MailMaster.csproj|solutionrelative:mailmaster\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326F2C59-5C13-41FA-90BE-36E978A402C4}|MailMaster\\MailMaster.csproj|c:\\users\\grand\\documents\\visualstudio projects\\repos\\mailmaster\\mailmaster\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326F2C59-5C13-41FA-90BE-36E978A402C4}|MailMaster\\MailMaster.csproj|solutionrelative:mailmaster\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326F2C59-5C13-41FA-90BE-36E978A402C4}|MailMaster\\MailMaster.csproj|C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\mailmaster\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326F2C59-5C13-41FA-90BE-36E978A402C4}|MailMaster\\MailMaster.csproj|solutionrelative:mailmaster\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\MailMaster\\Database.cs",
+              "RelativeDocumentMoniker": "MailMaster\\Database.cs",
+              "ToolTip": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\MailMaster\\Database.cs",
+              "RelativeToolTip": "MailMaster\\Database.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwJAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T07:57:36.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\MailMaster\\Form1.cs",
+              "RelativeDocumentMoniker": "MailMaster\\Form1.cs",
+              "ToolTip": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\MailMaster\\Form1.cs",
+              "RelativeToolTip": "MailMaster\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:21:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\MailMaster\\Form1.cs",
+              "RelativeDocumentMoniker": "MailMaster\\Form1.cs",
+              "ToolTip": "C:\\Users\\Grand\\Documents\\VisualStudio Projects\\repos\\MailMaster\\MailMaster\\Form1.cs [Design]",
+              "RelativeToolTip": "MailMaster\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:56:51.49Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
